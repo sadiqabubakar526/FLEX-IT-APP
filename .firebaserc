@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "Flex-it"
+  },
+  "targets": {
+    "Flex-it": {
+      "hosting": {
+        "new-design": [
+          "Flex-it-new"
+        ],
+        "prod": [
+          "Flex-it"
+        ]
+      }
+    }
+  }
+}
